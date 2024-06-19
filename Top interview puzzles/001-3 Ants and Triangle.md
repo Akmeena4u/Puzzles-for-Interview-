@@ -1,7 +1,3 @@
-Sure, I'll provide the notes formatted in a way that you can copy and paste directly, including all the formulas and mathematical notations.
-
----
-
 ### Ants on a Triangle Puzzle
 
 **Objective**: Find the probability that three ants, starting from the vertices of an equilateral triangle and moving along the perimeter at the same speed, do not collide.
@@ -18,7 +14,7 @@ Sure, I'll provide the notes formatted in a way that you can copy and paste dire
 3. **Probability Calculation**:
    - Each ant has 2 options (CW or CCW).
    - Probability of one ant choosing a specific direction = \( \frac{1}{2} \).
-   - For all ants to move CCW: \( \frac{1}{2} \times \frac{1}{2} \times \frac{1}{2} = \frac{1}{8} \).
+   - For all ants to move CCW: `\( \frac{1}{2} \times \frac{1}{2} \times \frac{1}{2} = \frac{1}{8} \)`.
    - For all ants to move CW: \( \frac{1}{2} \times \frac{1}{2} \times \frac{1}{2} = \frac{1}{8} \).
 
 4. **Total Probability**:
@@ -35,7 +31,3 @@ The probability that the ants will not collide is \( \frac{1}{4} \) or 0.25.
 
 #### Conclusion:
 The probability that three ants starting at the vertices of an equilateral triangle and moving along the perimeter will not collide is 0.25. This is because there are only two scenarios (all CW or all CCW) where they will avoid collision.
-
----
-
-You can copy and paste this text as it is, including the formulas and mathematical notations.
