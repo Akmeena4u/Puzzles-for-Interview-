@@ -13,15 +13,15 @@
 
 3. **Probability Calculation**:
    - Each ant has 2 options (CW or CCW).
-   - Probability of one ant choosing a specific direction = \( \frac{1}{2} \).
-   - For all ants to move CCW: `\( \frac{1}{2} \times \frac{1}{2} \times \frac{1}{2} = \frac{1}{8} \)`.
-   - For all ants to move CW: \( \frac{1}{2} \times \frac{1}{2} \times \frac{1}{2} = \frac{1}{8} \).
+   - Probability of one ant choosing a specific direction = 1/2.
+   - For all ants to move CCW: `(1/2)*(1/2)*(1/2) = 1/8`.
+   - For all ants to move CW:  `(1/2)*(1/2)*(1/2) = 1/8`.
 
 4. **Total Probability**:
-   - Probability of no collision = Probability of all CCW + Probability of all CW = \( \frac{1}{8} + \frac{1}{8} = \frac{1}{4} \).
+   - Probability of no collision = Probability of all CCW + Probability of all CW =  `(1/8)+(1/8)= 2/8=1/4=.25`.
 
 #### Final Result:
-The probability that the ants will not collide is \( \frac{1}{4} \) or 0.25.
+The probability that the ants will not collide is 1/4 or 0.25.
 
 #### Key Points:
 - **Uniform Movement**: Assumes ants move uniformly in speed.
